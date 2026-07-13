@@ -1,0 +1,9 @@
+llm:
+  provider: "deepseek"
+  model: "deepseek-chat"
+platforms:
+  telegram:
+    enabled: true
+  whatsapp:
+    enabled: true
+    mode: "self-chat"
