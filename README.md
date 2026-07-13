@@ -194,16 +194,16 @@ This project provided hands-on experience with:
 
 Through this project I gained practical experience in:
 
-Deploying AI applications on a Linux cloud server
-Configuring and managing Ubuntu 24.04 LTS
-Integrating DeepSeek with Hermes Agent
-Connecting AI services to WhatsApp and Telegram
-Managing environment variables securely
-Troubleshooting SSH authentication
-Understanding persistent AI memory and session management
-Operating AI services in a production-like VPS environment
-Maintaining long-running AI gateway services
-Building an end-to-end cloud-hosted AI assistant
+- **Deploying AI applications on a Linux cloud server
+- **Configuring and managing Ubuntu 24.04 LTS
+- **Integrating DeepSeek with Hermes Agent
+- **Connecting AI services to WhatsApp and Telegram
+- **Managing environment variables securely
+- **Troubleshooting SSH authentication
+- **Understanding persistent AI memory and session management
+- **Operating AI services in a production-like VPS environment
+- **Maintaining long-running AI gateway services
+- **Building an end-to-end cloud-hosted AI assistant
 
 
 
