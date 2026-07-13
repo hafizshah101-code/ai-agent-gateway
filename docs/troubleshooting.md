@@ -1,4 +1,4 @@
-🧠 Technical Challenges & Solutions
+## 🧠 Technical Challenges & Solutions
 
 Challenge 1 — SSH Authentication
 Problem
