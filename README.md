@@ -1,4 +1,4 @@
-🤖 Autonomous AI Agent Gateway (DeepSeek + WhatsApp + Telegram)
+## 🤖 Autonomous AI Agent Gateway (DeepSeek + WhatsApp + Telegram)
 
 A self-hosted AI assistant running on Tencent Cloud Ubuntu 24.04 LTS using the Hermes Agent Framework. The agent is connected to WhatsApp and Telegram, allowing multiple authorized users to interact with the same AI assistant while maintaining isolated conversation history.
 
@@ -28,7 +28,7 @@ This project demonstrates practical experience in:
 - Environment Configuration
 - Production Deployment
 
-📊 Architecture Diagram
+# 📊 Architecture Diagram
 ```text
                                     +----------------------+
                                     |   WhatsApp Users     |
@@ -58,7 +58,7 @@ This project demonstrates practical experience in:
 ```
 ![Architecture](assets/architecture-diagram.png)
 
-☁️ Infrastructure
+# ☁️ Infrastructure
 
 | Component           | Technology                     |
 | ------------------- | ------------------------------ |
@@ -73,7 +73,7 @@ This project demonstrates practical experience in:
 | Storage             | Local Persistent State         |
 
 
-🔧 Environment Configuration
+# 🔧 Environment Configuration
 
 Create the Hermes configuration directory.
 
@@ -107,88 +107,90 @@ Restart
 
 hermes gateway restart
 
-🎯 Skills Demonstrated
+# 🎯 Skills Demonstrated
 Cloud Infrastructure
-Provisioned and configured a Tencent Cloud Lighthouse VPS
-Ubuntu Server 24.04 LTS administration
-Secure remote access using SSH
-Linux filesystem and environment management
-Cloud-based AI application hosting
+- **Provisioned and configured a Tencent Cloud Lighthouse VPS
+- **Ubuntu Server 24.04 LTS administration
+- **Secure remote access using SSH
+- **Linux filesystem and environment management
+- **Cloud-based AI application hosting
 
 Linux Administration
-SSH authentication
-Environment variable management
-File permissions
-Hidden directory management
-Process management
-Service troubleshooting
-Terminal-based deployment
+- **SSH authentication
+- **Environment variable management
+- **File permissions
+- **Hidden directory management
+- **Process management
+- **Service troubleshooting
+- **Terminal-based deployment
 
 Artificial Intelligence
-DeepSeek API integration
-Large Language Model (LLM) configuration
-AI agent deployment
-Persistent conversation memory
-Multi-user AI interaction
-Prompt and personality configuration
+- **DeepSeek API integration
+- **Large Language Model (LLM) configuration
+- **AI agent deployment
+- **Persistent conversation memory
+- **Multi-user AI interaction
+- **Prompt and personality configuration
 
 Messaging Platform Integration
-Telegram Bot integration
-WhatsApp integration
-Multi-platform AI gateway
-Multi-user conversation routing
+- **Telegram Bot integration
+- **WhatsApp integration
+- **Multi-platform AI gateway
+- **Multi-user conversation routing
 
 Security
-API key isolation using environment variables
-Telegram user whitelist
-Session isolation between users
-Authentication troubleshooting
-Secure VPS deployment
+- **API key isolation using environment variables
+- **Telegram user whitelist
+- **Session isolation between users
+- **Authentication troubleshooting
+- **Secure VPS deployment
 
 Configuration Management
-YAML configuration
-Environment variables
-Runtime configuration
-Local state management
-Persistent AI memory
+- **YAML configuration
+- **Environment variables
+- **Runtime configuration
+- **Local state management
+- **Persistent AI memory
 
 Troubleshooting
-SSH authentication
-Linux networking
-API configuration
-Agent deployment
-Gateway startup issues
-Session persistence
-📈 What I Learned
+- **SSH authentication
+- **Linux networking
+- **API configuration
+- **Agent deployment
+- **Gateway startup issues
+- **Session persistence
+
+# 📈 What I Learned
 
 This project provided hands-on experience with:
 
-Linux server administration
-VPS deployment
-AI API integration
-Environment variable management
-Telegram Bot configuration
-WhatsApp integration
-Persistent AI memory
-Multi-user session management
-Cloud infrastructure troubleshooting
-SSH and remote server management
-💡 Future Improvements
-Docker deployment
-Reverse Proxy (Nginx + SSL)
-Automatic systemd service
-OpenRouter support
-Multiple AI model routing
-Vector database memory
-Voice message processing
-Web dashboard
+- **Linux server administration
+- **VPS deployment
+- **AI API integration
+- **Environment variable management
+- **Telegram Bot configuration
+- **WhatsApp integration
+- **Persistent AI memory
+- **Multi-user session management
+- **Cloud infrastructure troubleshooting
+- **SSH and remote server management
+
+# 💡 Future Improvements
+- **Docker deployment
+- **Reverse Proxy (Nginx + SSL)
+- **Automatic systemd service
+- **OpenRouter support
+- **Multiple AI model routing
+- **Vector database memory
+- **Voice message processing
+- **Web dashboard
 
 
 
 
 
 
-📚 Key Learning Outcomes
+# 📚 Key Learning Outcomes
 
 Through this project I gained practical experience in:
 
@@ -206,7 +208,7 @@ Building an end-to-end cloud-hosted AI assistant
 
 
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 M. Hafiz Shah
 
