@@ -56,7 +56,7 @@ This project demonstrates practical experience in:
                                        Configuration
                                    (.env + config.yaml)
 ```
-![Architecture](docs/n8n-resume-automation-architecture.png)
+![Architecture](assets/architecture-diagram.png)
 
 ☁️ Infrastructure
 
